@@ -12,6 +12,7 @@
 - [Learn AP Physics - Physics 1 & 2](http://www.learnapphysics.com/apphysics1and2/index.html)
 - [A Plus Physics](http://www.aplusphysics.com/courses/ap-1/AP1_Physics.html)
 - [Flipped Physics](http://flippedphysics.net/)
+- [PhysicsEH](https://www.youtube.com/user/PhysicsEH)
 - [Mr. B's Physics Planet - AP Physics B Notes](http://bowlesphysics.com/apphysicsb/apbnotes.html) ([PowerPoints](http://bowlesphysics.com/apphysicsb/apbpowerpoints.html)) ([Lesson Videos](http://bowlesphysics.com/apphysicsb/aplessonvideos.html)) ([Labs](http://bowlesphysics.com/apphysicsb/apblabs.html))
 - Review:
   - [Official 1998 AP Physics B Exam](http://apcentral.collegeboard.com/apc/public/repository/254387_1998_PhysicsB_RE.pdf)
